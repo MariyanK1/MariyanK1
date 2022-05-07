@@ -2,7 +2,7 @@
 
 ### My stack:
 
-!(https://i.ibb.co/SrPqWgY/icons8-nodejs-48.png)
+![x](https://i.ibb.co/SrPqWgY/icons8-nodejs-48.png)
 
 
 - 🔭 I’m currently working on bettering my mental and physical state

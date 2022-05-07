@@ -20,4 +20,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Hawaiian pizza
 - 🎬 Favorite movie: [12 Angry Men (1957)](https://www.imdb.com/title/tt0050083/)
-- 🍸 Favorite drink: Water, best drink ever created
+- 🍸 Favorite drinks: Water, Tea

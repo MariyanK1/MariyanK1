@@ -18,6 +18,6 @@
 - 💬 Ask me about Javascript
 - 📫 How to reach me: mariyan.pickup@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like pineapple on pizza
+- ⚡ Fun fact: I like Hawaiian pizza
 - 🎬 Favorite movie: [12 Angry Men (1957)](https://www.imdb.com/title/tt0050083/)
 - 🍸 Favorite drink: Water, best drink ever created

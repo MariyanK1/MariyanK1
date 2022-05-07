@@ -1,5 +1,10 @@
 ## Welcome to my corner of the internet. Let's build something awesome! 🛠
 
+### My stack:
+
+!(https://i.ibb.co/SrPqWgY/icons8-nodejs-48.png)
+
+
 - 🔭 I’m currently working on bettering my mental and physical state
 - 🌱 I’m currently learning Angular 13 and having a blast
 - 👯 I’m looking to collaborate on fresh ideas

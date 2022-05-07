@@ -3,12 +3,12 @@
 ### My stack:
 
 ![x](https://i.ibb.co/SrPqWgY/icons8-nodejs-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-mongodb-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-typescript-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-react-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-css3-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-html-5-48.png)
-![x](https://i.ibb.co/SrPqWgY/icons8-angularjs-48.png)
+![x](https://i.ibb.co/rMz89bT/icons8-mongodb-48.png)
+![x](https://i.ibb.co/VJpHsVP/icons8-typescript-48.png)
+![x](https://i.ibb.co/bL9jdJ8/icons8-react-48.png)
+![x](https://i.ibb.co/3pJMTnd/icons8-css3-48.png)
+![x](https://i.ibb.co/2tTpr3n/icons8-html-5-48.png)
+![x](https://i.ibb.co/5B23wd6/icons8-angularjs-48.png)
 
 
 - 🔭 I’m currently working on bettering my mental and physical state

@@ -9,6 +9,7 @@
 ![x](https://i.ibb.co/3pJMTnd/icons8-css3-48.png)
 ![x](https://i.ibb.co/2tTpr3n/icons8-html-5-48.png)
 ![x](https://i.ibb.co/5B23wd6/icons8-angularjs-48.png)
+![x](https://i.ibb.co/2c3HFNZ/1.png)
 
 
 - 🔭 I’m currently working on bettering my mental and physical state

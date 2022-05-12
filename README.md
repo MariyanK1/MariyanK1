@@ -1,4 +1,4 @@
-## Welcome to my corner of the internet. Let's build something awesome! 🛠
+## Welcome to my corner of the Internet. Let's build something awesome! 🛠
 
 ### My stack:
 

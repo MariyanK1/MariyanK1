@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with finding Nemo
 - 💬 Ask me about Javascript
 - 📫 How to reach me: mariyan.pickup@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like Hawaiian pizza
 - 🎬 Favorite movie: [12 Angry Men (1957)](https://www.imdb.com/title/tt0050083/)
 - 🍸 Favorite drinks: Water, Tea

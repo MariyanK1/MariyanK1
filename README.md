@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on bettering my mental and physical state
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on fresh ideas
-- 🤔 I’m looking for help with finding Nemo
+- 🤔 I’m looking for help with understating V8 engine
 - 💬 Ask me about Javascript
 - 📫 How to reach me: mariyan.pickup@gmail.com
 - 😄 Pronouns: He/Him
